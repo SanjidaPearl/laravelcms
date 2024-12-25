@@ -1,4 +1,4 @@
-A cms project where user can post his status, make friends and see their status.
+A cms project where user can register and post his status, make friends and see their status.
 ![image](https://github.com/user-attachments/assets/9838817d-7e40-4c0e-aa2c-f0907a1df744)
 
 
