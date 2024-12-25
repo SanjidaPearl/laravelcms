@@ -1,5 +1,7 @@
 A cms project where user can post his status, make friends and see their status.
 
+![image](https://github.com/user-attachments/assets/305f5f37-04ee-4798-b063-2be22d7e8bbf)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 
